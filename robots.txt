@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /tmp/
+Disallow: /private/
+Disallow: /cgi-bin/
+Disallow: /search/
+Sitemap: https://www.tesknew.info/sitemap.xml
