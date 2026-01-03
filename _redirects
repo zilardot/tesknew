@@ -1,35 +1,16 @@
+/:page/                    /:page                        301
 
-/about                    /about.html                    200
-/contact                  /contact.html                  200
-/articles                 /articles.html                 200
+/about                     /about.html                   200
+/contact                   /contact.html                 200
+/articles                  /articles.html                200
 /prostate-specific-antigen /prostate-specific-antigen.html 200
-/blood-sugar-levels       /blood-sugar-levels.html       200
-/tinnitus                 /tinnitus.html                 200
-/prodentim-reviews        /prodentim-reviews.html        200
-/mitolyn-reviews          /mitolyn-reviews.html          200
-/terms-of-use             /terms-of-use.html             200
-/privacy-policy           /privacy-policy.html           200
+/blood-sugar-levels        /blood-sugar-levels.html      200
+/tinnitus                  /tinnitus.html                200
+/prodentim-reviews         /prodentim-reviews.html       200
+/mitolyn-reviews           /mitolyn-reviews.html         200
+/terms-of-use              /terms-of-use.html            200
+/privacy-policy            /privacy-policy.html          200
 
-/about.html               /about                         301
-/contact.html             /contact                       301
-/articles.html            /articles                      301
-/prostate-specific-antigen.html /prostate-specific-antigen 301
-/blood-sugar-levels.html  /blood-sugar-levels            301
-/tinnitus.html            /tinnitus                      301
-/prodentim-reviews.html   /prodentim-reviews             301
-/mitolyn-reviews.html     /mitolyn-reviews               301
-/terms-of-use.html        /terms-of-use                  301
-/privacy-policy.html      /privacy-policy                301
 
-/about/                   /about                         301
-/contact/                 /contact                       301
-/articles/                /articles                      301
-/prostate-specific-antigen/ /prostate-specific-antigen   301
-/blood-sugar-levels/      /blood-sugar-levels            301
-/tinnitus/                /tinnitus                      301
-/prodentim-reviews/       /prodentim-reviews             301
-/mitolyn-reviews/         /mitolyn-reviews               301
-/terms-of-use/            /terms-of-use                  301
-/privacy-policy/          /privacy-policy                301
 
 
