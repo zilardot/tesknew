@@ -2,47 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://tesknew.info/index.html</loc>
+    <loc>https://tesknew.info/</loc>
+    <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://tesknew.info/about.html</loc>
+    <loc>https://tesknew.info/about</loc>
+    <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://tesknew.info/articles.html</loc>
+    <loc>https://tesknew.info/articles</loc>
+    <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://tesknew.info/blood-sugar-levels.html</loc>
+    <loc>https://tesknew.info/blood-sugar-levels</loc>
+    <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://tesknew.info/contact.html</loc>
+    <loc>https://tesknew.info/contact</loc>
+    <priority>0.6</priority>
   </url>
 
   <url>
-    <loc>https://tesknew.info/mitolyn-reviews.html</loc>
+    <loc>https://tesknew.info/mitolyn-reviews</loc>
+    <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://tesknew.info/privacy-policy.html</loc>
+    <loc>https://tesknew.info/privacy-policy</loc>
+    <priority>0.3</priority>
   </url>
 
   <url>
-    <loc>https://tesknew.info/prodentim-reviews.html</loc>
+    <loc>https://tesknew.info/prodentim-reviews</loc>
+    <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://tesknew.info/prostate-specific-antigen.html</loc>
+    <loc>https://tesknew.info/prostate-specific-antigen</loc>
+    <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://tesknew.info/terms-of-use.html</loc>
+    <loc>https://tesknew.info/terms-of-use</loc>
+    <priority>0.3</priority>
   </url>
 
   <url>
-    <loc>https://tesknew.info/tinnitus.html</loc>
+    <loc>https://tesknew.info/tinnitus</loc>
+    <priority>0.9</priority>
   </url>
 
 </urlset>
